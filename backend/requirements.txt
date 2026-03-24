@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+python-dotenv
+pydantic-settings
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+openai
